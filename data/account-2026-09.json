@@ -1,0 +1,142 @@
+{
+  "generated": "2026-09-05",
+  "source": "One anonymised Google Ads Campaign URL performance export, 49 days, EUR",
+  "account": {
+    "placements": 5183,
+    "spend": 3591.14,
+    "impressions": 654495,
+    "clicks": 8327,
+    "conversions": 450.9,
+    "ctr": 1.272,
+    "cpa": 7.96
+  },
+  "waste": {
+    "zeroCostPlacements": 3255,
+    "zeroCostShare": 62.8,
+    "spendWithNoConversions": 1321.3,
+    "spendWithNoConversionsShare": 36.8,
+    "placementsWithNoConversions": 1726
+  },
+  "concentration": [
+    {
+      "topN": 10,
+      "shareOfSpend": 29.6
+    },
+    {
+      "topN": 50,
+      "shareOfSpend": 54.6
+    },
+    {
+      "topN": 100,
+      "shareOfSpend": 65.1
+    },
+    {
+      "topN": 500,
+      "shareOfSpend": 86.7
+    }
+  ],
+  "flagged": {
+    "count": 161,
+    "share": 3.1,
+    "high": 13,
+    "spendAtStake": 637.7,
+    "spendAtStakeShare": 17.8
+  },
+  "signalFrequency": {
+    "spend-no-return": 155,
+    "implausible-ctr": 9,
+    "risky-tld": 6,
+    "clickbait": 4,
+    "zero-click-volume": 2,
+    "content-farm": 1,
+    "job-exam-farm": 1,
+    "long-name": 1,
+    "cpa-outlier": 1
+  },
+  "tldFlagRate": [
+    {
+      "tld": ".app",
+      "placements": 31,
+      "flagged": 5,
+      "flagRate": 16.1
+    },
+    {
+      "tld": ".live",
+      "placements": 15,
+      "flagged": 2,
+      "flagRate": 13.3
+    },
+    {
+      "tld": ".tr",
+      "placements": 26,
+      "flagged": 3,
+      "flagRate": 11.5
+    },
+    {
+      "tld": ".rs",
+      "placements": 15,
+      "flagged": 1,
+      "flagRate": 6.7
+    },
+    {
+      "tld": ".me",
+      "placements": 32,
+      "flagged": 2,
+      "flagRate": 6.3
+    },
+    {
+      "tld": ".xyz",
+      "placements": 21,
+      "flagged": 1,
+      "flagRate": 4.8
+    },
+    {
+      "tld": ".ch",
+      "placements": 23,
+      "flagged": 1,
+      "flagRate": 4.3
+    },
+    {
+      "tld": ".com",
+      "placements": 2153,
+      "flagged": 79,
+      "flagRate": 3.7
+    },
+    {
+      "tld": ".info",
+      "placements": 84,
+      "flagged": 3,
+      "flagRate": 3.6
+    },
+    {
+      "tld": ".at",
+      "placements": 28,
+      "flagged": 1,
+      "flagRate": 3.6
+    },
+    {
+      "tld": ".tv",
+      "placements": 29,
+      "flagged": 1,
+      "flagRate": 3.4
+    },
+    {
+      "tld": ".ru",
+      "placements": 59,
+      "flagged": 2,
+      "flagRate": 3.4
+    },
+    {
+      "tld": ".in",
+      "placements": 30,
+      "flagged": 1,
+      "flagRate": 3.3
+    },
+    {
+      "tld": ".org",
+      "placements": 161,
+      "flagged": 5,
+      "flagRate": 3.1
+    }
+  ]
+}
