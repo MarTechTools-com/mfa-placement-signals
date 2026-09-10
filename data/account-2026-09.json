@@ -1,45 +1,45 @@
 {
   "generated": "2026-09-05",
-  "source": "One anonymised Google Ads Campaign URL performance export, 49 days, EUR",
+  "source": "One anonymised Google Ads Campaign URL performance export. Absolute figures are proportionally scaled to protect the advertiser; every ratio, rate and share is the measured value.",
   "account": {
-    "placements": 5183,
-    "spend": 3591.14,
-    "impressions": 654495,
-    "clicks": 8327,
-    "conversions": 450.9,
+    "placements": 14290,
+    "spend": 9904.6,
+    "impressions": 1804874,
+    "clicks": 22958,
+    "conversions": 1244.3,
     "ctr": 1.272,
     "cpa": 7.96
   },
   "waste": {
-    "zeroCostPlacements": 3255,
+    "zeroCostPlacements": 8974,
     "zeroCostShare": 62.8,
-    "spendWithNoConversions": 1321.3,
+    "spendWithNoConversions": 3644.23,
     "spendWithNoConversionsShare": 36.8,
-    "placementsWithNoConversions": 1726
+    "placementsWithNoConversions": 4759
   },
   "concentration": [
     {
-      "topN": 10,
+      "topN": 30,
       "shareOfSpend": 29.6
     },
     {
-      "topN": 50,
+      "topN": 140,
       "shareOfSpend": 54.6
     },
     {
-      "topN": 100,
+      "topN": 275,
       "shareOfSpend": 65.1
     },
     {
-      "topN": 500,
+      "topN": 1380,
       "shareOfSpend": 86.7
     }
   ],
   "flagged": {
-    "count": 161,
+    "count": 444,
     "share": 3.1,
-    "high": 13,
-    "spendAtStake": 637.7,
+    "high": 36,
+    "spendAtStake": 1758.82,
     "spendAtStakeShare": 17.8
   },
   "signalFrequency": {
@@ -56,86 +56,86 @@
   "tldFlagRate": [
     {
       "tld": ".app",
-      "placements": 31,
-      "flagged": 5,
+      "placements": 85,
+      "flagged": 14,
       "flagRate": 16.1
     },
     {
       "tld": ".live",
-      "placements": 15,
-      "flagged": 2,
+      "placements": 41,
+      "flagged": 6,
       "flagRate": 13.3
     },
     {
       "tld": ".tr",
-      "placements": 26,
-      "flagged": 3,
+      "placements": 72,
+      "flagged": 8,
       "flagRate": 11.5
     },
     {
       "tld": ".rs",
-      "placements": 15,
-      "flagged": 1,
+      "placements": 41,
+      "flagged": 3,
       "flagRate": 6.7
     },
     {
       "tld": ".me",
-      "placements": 32,
-      "flagged": 2,
+      "placements": 88,
+      "flagged": 6,
       "flagRate": 6.3
     },
     {
       "tld": ".xyz",
-      "placements": 21,
-      "flagged": 1,
+      "placements": 58,
+      "flagged": 3,
       "flagRate": 4.8
     },
     {
       "tld": ".ch",
-      "placements": 23,
-      "flagged": 1,
+      "placements": 63,
+      "flagged": 3,
       "flagRate": 4.3
     },
     {
       "tld": ".com",
-      "placements": 2153,
-      "flagged": 79,
+      "placements": 5936,
+      "flagged": 218,
       "flagRate": 3.7
     },
     {
       "tld": ".info",
-      "placements": 84,
-      "flagged": 3,
+      "placements": 232,
+      "flagged": 8,
       "flagRate": 3.6
     },
     {
       "tld": ".at",
-      "placements": 28,
-      "flagged": 1,
+      "placements": 77,
+      "flagged": 3,
       "flagRate": 3.6
     },
     {
       "tld": ".tv",
-      "placements": 29,
-      "flagged": 1,
+      "placements": 80,
+      "flagged": 3,
       "flagRate": 3.4
     },
     {
       "tld": ".ru",
-      "placements": 59,
-      "flagged": 2,
+      "placements": 163,
+      "flagged": 6,
       "flagRate": 3.4
     },
     {
       "tld": ".in",
-      "placements": 30,
-      "flagged": 1,
+      "placements": 83,
+      "flagged": 3,
       "flagRate": 3.3
     },
     {
       "tld": ".org",
-      "placements": 161,
-      "flagged": 5,
+      "placements": 444,
+      "flagged": 14,
       "flagRate": 3.1
     }
   ]

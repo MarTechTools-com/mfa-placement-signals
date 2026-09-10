@@ -166,18 +166,21 @@ conflicts with processing the report locally.
 
 ## Validation
 
-Against a real 5,183-placement account (49 days, EUR 3,591 spend):
+Against a real account of 14,290 placements and EUR 9,905 of spend:
 
 | | |
 |---|---|
-| Flagged | 161 (3.1%) |
-| High severity | 13 |
-| Spend at stake | EUR 637.70 (17.8%) |
+| Flagged | 444 (3.1%) |
+| High severity | 36 |
+| Spend at stake | EUR 1,758.82 (17.8%) |
 | Converting placements flagged | 1 (on `cpa-outlier`, correctly) |
 
-The previous revision of this model flagged 570 placements on the same file, 85% of
+The previous revision of this model flagged 3.5x as many placements on the same file, 85% of
 them from a single weak name signal, including one with 11.5 conversions flagged for
 containing two hyphens. Precision matters more than recall here: a list nobody
 trusts gets ignored entirely.
+
+Absolute figures throughout are proportionally scaled to protect the advertiser's
+identity. Every ratio, rate and share is the measured value.
 
 See [data/](data/) for the full anonymised statistics.
