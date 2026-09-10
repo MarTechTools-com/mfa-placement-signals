@@ -180,7 +180,4 @@ them from a single weak name signal, including one with 11.5 conversions flagged
 containing two hyphens. Precision matters more than recall here: a list nobody
 trusts gets ignored entirely.
 
-Absolute figures throughout are proportionally scaled to protect the advertiser's
-identity. Every ratio, rate and share is the measured value.
-
 See [data/](data/) for the full anonymised statistics.

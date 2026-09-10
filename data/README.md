@@ -6,10 +6,6 @@ Anonymised aggregate statistics from real Google Ads placement reports.
 patterns and rates, not companies. See the note on naming domains in the root
 README.
 
-Absolute figures are proportionally scaled so the source account cannot be
-identified. Every ratio, rate and share below is the measured value — scaling
-changes the size of the account, not the shape of it.
-
 ## Files
 
 - `account-2026-09.json` — a 14,290-placement account, EUR. Spend concentration,
